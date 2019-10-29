@@ -5,4 +5,3 @@
 A React app to list your favorite films. 🎬
 
 by [sidiousvic](https://github.com/sidiousvic)
-# filmlist
